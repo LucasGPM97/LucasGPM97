@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to my profile
 
-<!--
-**LucasGPM97/LucasGPM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at [UCB](https://ucb.catolica.edu.br/) with a passion for technology and music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Status
+<a href="https://github-readme-stats.vercel.app/api?username=LucasGPM97&theme=dark&show_icons=true&rank_icon=github">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasGPM97&theme=dark&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasGPM97&layout=compact&theme=dark">
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasGPM97&layout=compact&theme=dark" />
+</a>
+
+## Contact
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgpmenezes/)
+[![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.gabriel1704@gmail.com)
